@@ -14,7 +14,7 @@ MP3s, but are TXT files, where the metadata is parsed out of the file name. In a
 version, I may try to actually read MP3 ID3 tags for the data.  
 It is recommended you read the source code to see exactly what the code is
 doing.  
-Please visit my portfolio at http://people.scs.carleton.ca/~mchristo/
+Please visit my portfolio at http://murraychristopherson.com
 
 If you discover any bugs or unclear/inconsistent documentation, please contact me
 at murraychristopherson@gmail.com with a description of what happened, and I
