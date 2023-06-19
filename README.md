@@ -18,7 +18,7 @@ compiling.
 
 ## Running the Program
 The program is run through a command line interface. The general form is 
-```bash
+```sh
 java JTunesBrowser
 ```
 Alternatively, you can run the program from within Eclipse.
